@@ -7,10 +7,15 @@ The program makes use of data structures such as a stack and binary tree and mak
 
 Modes of the game:
 + *Guessing*. After receiving the input from the user in the form of "yes" or "no", the program attempts to determine the character that the user is guessing.
+
 ![guess](https://github.com/A-Elbereth-Gilthoniel/images/blob/main/guessing.png)
+
 + *Definition*. The program receives the name of a character from the user and then generates a route along which that character is searched.
+
 ![definition](https://github.com/A-Elbereth-Gilthoniel/images/blob/main/definition.png)
+
 + *Difference*. The program displays the first difference that differs between the two names that the user has entered.
+  
 ![difference](https://github.com/A-Elbereth-Gilthoniel/images/blob/main/differences.png)
 
 ---
